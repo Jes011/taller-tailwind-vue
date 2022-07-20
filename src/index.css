@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li{
+    padding: 2vmin;
+    cursor: pointer;
+}
+
+li:hover{
+    background-color: rgb(30 41 59);
+}
+
+.transparente{
+    background-color: rgba(15,23,42,0.75);
+}
